@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+li {
+    color: beige;
+}
+
